@@ -1,0 +1,4 @@
+server: 
+  port: 8090
+CNAE:
+  url: https://servicodados.ibge.gov.br/api/v2/cnae/secoes
