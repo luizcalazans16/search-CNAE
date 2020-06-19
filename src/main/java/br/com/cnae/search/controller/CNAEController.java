@@ -13,7 +13,7 @@ import br.com.cnae.search.service.CNAEService;
 
 @RequestMapping("/CNAE")
 @RestController
-public class Controller {
+public class CNAEController {
 
 	@Autowired
 	private CNAEService service;
